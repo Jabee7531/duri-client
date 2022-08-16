@@ -27,7 +27,7 @@ const PostWriter = () => {
       setTitleInput(data.title);
       setContentInput(data.content);
     }
-  }, []);
+  }, [data]);
 
   const onSubmit = async (e) => {
     e.preventDefault();
