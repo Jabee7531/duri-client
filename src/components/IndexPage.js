@@ -19,47 +19,47 @@ const IndexPage = () => {
 
   const novels = [
     <div css={novelsStyle}>
-      <img src={Group3} key="Group3" />
+      <img src={Group3} key="Group3" alt="nov-group3" />
     </div>,
     <div css={novelsStyle}>
-      <img src={Group4} key="Group4" />
+      <img src={Group4} key="Group4" alt="nov-group4" />
     </div>,
     <div css={novelsStyle}>
-      <img src={Group5} key="Group5" />
+      <img src={Group5} key="Group5" alt="nov-group5" />
     </div>,
   ];
   const doris = [
     <div css={dorisStyle}>
       <div className="thumbNail">
-        <img src={dori0} key="dori0" />
+        <img src={dori0} key="dori0" alt="dori0" />
       </div>
       <div className="title">두리야</div>
       <div className="content">자비</div>
     </div>,
     <div css={dorisStyle}>
       <div className="thumbNail">
-        <img src={dori1} key="dori1" />
+        <img src={dori1} key="dori1" alt="dori1" />
       </div>
       <div className="title">미안해...</div>
       <div className="content">자비</div>
     </div>,
     <div css={dorisStyle}>
       <div className="thumbNail">
-        <img src={dori2} key="dori2" />
+        <img src={dori2} key="dori2" alt="dori2" />
       </div>
       <div className="title">이 프로젝트는 잠시 멈추려고 해...</div>
       <div className="content">자비</div>
     </div>,
     <div css={dorisStyle}>
       <div className="thumbNail">
-        <img src={dori3} key="dori3" />
+        <img src={dori3} key="dori3" alt="dori3" />
       </div>
       <div className="title">다음엔 꼭 완성도 높게 만들어 줄께</div>
       <div className="content">자비</div>
     </div>,
     <div css={dorisStyle}>
       <div className="thumbNail">
-        <img src={dori4} key="dori4" />
+        <img src={dori4} key="dori4" alt="dori4" />
       </div>
       <div className="title">그때를 기약하며 !!!</div>
       <div className="content">자비</div>
