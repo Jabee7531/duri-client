@@ -1,4 +1,7 @@
-![Logo](./src/static/imges/logo.png)
+
+<div align="center">
+  <img src="./src/static/imges/logo.png" align="center"/>
+</div>
 
 <div align="center">
   귀여운 두리의 겔러리
