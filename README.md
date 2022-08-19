@@ -1,11 +1,20 @@
 ![Logo](./src/static/imges/logo.png)
 
-<center>귀여운 두리의 겔러리</center>
+<div align="center">
+  귀여운 두리의 겔러리
+</div>
+<div align="center">
+    <a href="https://dori.vercel.app/">https://dori.vercel.app
+    </a>
+</div>
 </br>
-<center><a href="https://dori.ver cel.app/">https://dori.vercel.app</a></center>
-</br>
-<center>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/Recoil-E0234E?logoColor=white"/> <img src="https://img.shields.io/badge/TypeORM-E0234E?logoColor=white"/> <img src="https://img.shields.io/badge/emotion-E0234E?logoColor=white"/> </center>
+<div align="center">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/Recoil-E0234E?logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeORM-E0234E?logoColor=white"/>
+<img src="https://img.shields.io/badge/emotion-E0234E?logoColor=white"/>
+</div>
 
 # 요약
 
