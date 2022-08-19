@@ -5,12 +5,7 @@
 <center><a href="https://dori.ver cel.app/">https://dori.vercel.app</a></center>
 </br>
 <center>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white" alt="React"/>
-<img src="https://img.shields.io/badge/Recoil-E0234E?logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeORM-E0234E?logoColor=white"/>
-<img src="https://img.shields.io/badge/emotion-E0234E?logoColor=white"/>
-</center>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/Recoil-E0234E?logoColor=white"/> <img src="https://img.shields.io/badge/TypeORM-E0234E?logoColor=white"/> <img src="https://img.shields.io/badge/emotion-E0234E?logoColor=white"/> </center>
 
 # 요약
 
