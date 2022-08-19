@@ -1,14 +1,14 @@
 // images
 import { default as logo } from "./imges/logo.png";
 import { default as dog } from "./imges/dog.jpg";
-import { default as dori0 } from "./imges/dori0.jpg";
-import { default as dori1 } from "./imges/dori1.jpg";
-import { default as dori2 } from "./imges/dori2.jpg";
-import { default as dori3 } from "./imges/dori3.jpg";
-import { default as dori4 } from "./imges/dori4.jpg";
-import { default as dori5 } from "./imges/dori5.jpg";
-import { default as dori6 } from "./imges/dori6.jpg";
-import { default as dori7 } from "./imges/dori7.jpg";
+import { default as duri0 } from "./imges/duri0.jpg";
+import { default as duri1 } from "./imges/duri1.jpg";
+import { default as duri2 } from "./imges/duri2.jpg";
+import { default as duri3 } from "./imges/duri3.jpg";
+import { default as duri4 } from "./imges/duri4.jpg";
+import { default as duri5 } from "./imges/duri5.jpg";
+import { default as duri6 } from "./imges/duri6.jpg";
+import { default as duri7 } from "./imges/duri7.jpg";
 import { default as Group3 } from "./imges/Group3.png";
 import { default as Group4 } from "./imges/Group4.png";
 import { default as Group5 } from "./imges/Group5.png";
@@ -20,14 +20,14 @@ export {
   SearchIcon,
   logo,
   dog,
-  dori0,
-  dori1,
-  dori2,
-  dori3,
-  dori4,
-  dori5,
-  dori6,
-  dori7,
+  duri0,
+  duri1,
+  duri2,
+  duri3,
+  duri4,
+  duri5,
+  duri6,
+  duri7,
   Group3,
   Group4,
   Group5,

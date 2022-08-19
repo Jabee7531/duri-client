@@ -19,7 +19,7 @@ const LoginButton = () => {
       const auth2 = window.gapi.auth2.init({
         client_id: process.env.REACT_APP_GOOGLE_AUTH_KEY,
         cookiepolicy: "single_host_origin",
-        plugin_name: "Dori",
+        plugin_name: "Duri",
       });
       auth2.attachClickHandler(
         buttonRef.current,
