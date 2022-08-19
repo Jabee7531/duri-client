@@ -2,11 +2,11 @@
 import { css } from "@emotion/react";
 import { useEffect, useRef } from "react";
 import {
-  dori0,
-  dori1,
-  dori2,
-  dori3,
-  dori4,
+  duri0,
+  duri1,
+  duri2,
+  duri3,
+  duri4,
   Group3,
   Group4,
   Group5,
@@ -28,38 +28,38 @@ const IndexPage = () => {
       <img src={Group5} key="Group5" alt="nov-group5" />
     </div>,
   ];
-  const doris = [
-    <div css={dorisStyle}>
+  const duris = [
+    <div css={durisStyle}>
       <div className="thumbNail">
-        <img src={dori0} key="dori0" alt="dori0" />
+        <img src={duri0} key="duri0" alt="duri0" />
       </div>
       <div className="title">두리야</div>
       <div className="content">자비</div>
     </div>,
-    <div css={dorisStyle}>
+    <div css={durisStyle}>
       <div className="thumbNail">
-        <img src={dori1} key="dori1" alt="dori1" />
+        <img src={duri1} key="duri1" alt="duri1" />
       </div>
       <div className="title">미안해...</div>
       <div className="content">자비</div>
     </div>,
-    <div css={dorisStyle}>
+    <div css={durisStyle}>
       <div className="thumbNail">
-        <img src={dori2} key="dori2" alt="dori2" />
+        <img src={duri2} key="duri2" alt="duri2" />
       </div>
       <div className="title">이 프로젝트는 잠시 멈추려고 해...</div>
       <div className="content">자비</div>
     </div>,
-    <div css={dorisStyle}>
+    <div css={durisStyle}>
       <div className="thumbNail">
-        <img src={dori3} key="dori3" alt="dori3" />
+        <img src={duri3} key="duri3" alt="duri3" />
       </div>
       <div className="title">다음엔 꼭 완성도 높게 만들어 줄께</div>
       <div className="content">자비</div>
     </div>,
-    <div css={dorisStyle}>
+    <div css={durisStyle}>
       <div className="thumbNail">
-        <img src={dori4} key="dori4" alt="dori4" />
+        <img src={duri4} key="duri4" alt="duri4" />
       </div>
       <div className="title">그때를 기약하며 !!!</div>
       <div className="content">자비</div>
@@ -91,32 +91,32 @@ const IndexPage = () => {
       <SlickCarousel slides={novels} />
       <IndexPostGrid
         title="두리 갤러리"
-        slides={doris}
+        slides={duris}
         rest_settings={rest_settings}
       />
       <IndexPostGrid
         title="두리 갤러리"
-        slides={doris}
+        slides={duris}
         rest_settings={rest_settings}
       />
       <IndexPostGrid
         title="두리 갤러리"
-        slides={doris}
+        slides={duris}
         rest_settings={rest_settings}
       />
       <IndexPostGrid
         title="두리 갤러리"
-        slides={doris}
+        slides={duris}
         rest_settings={rest_settings}
       />
       <IndexPostGrid
         title="두리 갤러리"
-        slides={doris}
+        slides={duris}
         rest_settings={rest_settings}
       />
       <IndexPostGrid
         title="두리 갤러리"
-        slides={doris}
+        slides={duris}
         rest_settings={rest_settings}
       />
     </div>
@@ -133,7 +133,7 @@ const novelsStyle = css`
     object-fit: cover;
   }
 `;
-const dorisStyle = css`
+const durisStyle = css`
   height: 17rem;
   padding: 1rem;
   .thumbNail {
