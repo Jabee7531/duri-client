@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="./src/static/imges/logo.png" align="center"/>
 </div>
@@ -15,7 +14,6 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white" alt="React"/>
 <img src="https://img.shields.io/badge/Recoil-E0234E?logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeORM-E0234E?logoColor=white"/>
 <img src="https://img.shields.io/badge/emotion-E0234E?logoColor=white"/>
 </div>
 
