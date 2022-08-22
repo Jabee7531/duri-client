@@ -3,7 +3,8 @@
 </div>
 
 <div align="center">
-  귀여운 두리의 겔러리
+  <h3>Duri Gallery</h3>
+  <h3>귀여운 두리의 갤러리</h3>
 </div>
 <div align="center">
     <a href="https://duri.vercel.app/">https://duri.vercel.app
@@ -17,9 +18,27 @@
 <img src="https://img.shields.io/badge/emotion-E0234E?logoColor=white"/>
 </div>
 
-# 요약
+# Description
 
-귀여운 두리의 겔러리입니다.
+This is Gallery of cute Duri.
+
+You can create a message board and share pictures of cute puppies.
+
+Share pictures of cute puppies, comment and communicate!
+
+<br/>
+
+
+# License
+
+MIT License
+
+<br/>
+<br/>
+
+# 설명
+
+귀여운 두리의 갤러리입니다.
 
 게시판을 만들어 귀여운 강아지 사진을 공유할 수 있습니다.
 
