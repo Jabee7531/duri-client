@@ -29,10 +29,40 @@ Share pictures of cute puppies, comment and communicate!
 <br/>
 
 
+# Quick Start Guide
+
+### 1. installation
+
+```bash
+git clone https://github.com/Jabee7531/duri-client.git
+cd duri-client
+yarn
+```
+
+### 2. set up `.env` file
+
+```
+REACT_APP_API_BASE_URL="your_server_url"
+REACT_APP_AWS_REGION="s3_region_to_upload_image"
+REACT_APP_AWS_ACCESS_KEY_ID="s3_access_key_id_to_upload_image"
+REACT_APP_AWS_SECRET_ACCESS_KEY="s3_secret_access_key_to_upload_image"
+REACT_APP_AWS_BUCKET="s3_bucket_name_to_upload_image"
+REACT_APP_GOOGLE_AUTH_KEY="google_api_auth_key"
+```
+
+### 3. start
+
+```
+yarn start
+```
+
+<br/>
+
 # License
 
 MIT License
 
+<br/>
 <br/>
 <br/>
 
@@ -44,7 +74,36 @@ MIT License
 
 귀여운 강아지 사진을 공유하고 댓글을 달아 소통해 보세요 !
 
-</br>
+<br/>
+
+# 빠른시작
+
+### 1. 설치하기
+
+```bash
+git clone https://github.com/Jabee7531/duri-client.git
+cd duri-client
+yarn
+```
+
+### 2. `.env`파일 설정
+
+```
+REACT_APP_API_BASE_URL="your_server_url"
+REACT_APP_AWS_REGION="s3_region_to_upload_image"
+REACT_APP_AWS_ACCESS_KEY_ID="s3_access_key_id_to_upload_image"
+REACT_APP_AWS_SECRET_ACCESS_KEY="s3_secret_access_key_to_upload_image"
+REACT_APP_AWS_BUCKET="s3_bucket_name_to_upload_image"
+REACT_APP_GOOGLE_AUTH_KEY="google_api_auth_key"
+```
+
+### 3. 시작하기
+
+```
+yarn start
+```
+
+<br/>
 
 # 라이센스
 
